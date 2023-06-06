@@ -29,7 +29,7 @@ export default class Character implements Fighter {
     };
     this._race = new Elf(n, this._dexterity);
     this._maxLifePoints = this._race.maxLifePoints / 2;
-    this._lifePoints = this._race.maxLifePoints;
+    this._lifePoints = this._maxLifePoints;
   }
 
   public get race(): Race {
