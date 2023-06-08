@@ -5,7 +5,7 @@ const LOSER = 0;
 
 export default class PVP extends Battle {
   constructor(
-    player1: Fighter,
+    protected player1: Fighter,
     private player2: Fighter,
   ) {
     super(player1);
