@@ -4,10 +4,10 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong>Objetivos do projeto:</strong></summary>
 
-  * Desenvolver um jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
+  * Desenvolver um jogo de interpretação de papéis, mais conhecido como jogo `RPG` - _Role Playing Game_.
   * Verificar se eu era capaz de:
-    * Aplicar os princípios da arquitetura SOLID.
-    * Aplicar os princípios de POO.
+    * Aplicar os princípios da arquitetura `SOLID`.
+    * Aplicar os princípios de `POO`.
 </details>
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
