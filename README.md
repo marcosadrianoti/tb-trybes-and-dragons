@@ -4,11 +4,10 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong>Objetivos do projeto:</strong></summary>
 
-  * Criar uma loja de itens medievais no formato de uma API, utilizando Typescript e Sequelize.
+  * Desenvolver um jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
   * Verificar se eu era capaz de:
-    * Desenvolver as camadas de Service e Controllers.
-    * Utilizar JWT para autenticar algumas rotas.
-    * Escrever testes para garantir o correto funcionamento.
+    * Aplicar os princípios da arquitetura SOLID.
+    * Aplicar os princípios de POO.
 </details>
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
