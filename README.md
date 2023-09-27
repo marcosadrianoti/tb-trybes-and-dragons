@@ -12,11 +12,16 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
 
-  * Criar um endpoint para o cadastro de produtos.
-  * Criar um endpoint para a listagem de produtos.
-  * Criar um endpoint para listar todos os pedidos.
-  * Criar um endpoint para o login de pessoas usuárias.
-  * Criar as validações para as produtos.
+  * Classe Race
+  * Classes que herdam de Race
+  * Energy
+  * Classe Archetype
+  * Classes que herdam de Archetype
+  * Interface Fighter
+  * Classe Character
+  * Interface SimpleFighter
+  * Classe Monster
+  * Classe PVP.
 </details>
   
 ## Rodando o projeto localmente
