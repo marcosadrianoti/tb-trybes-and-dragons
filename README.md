@@ -36,13 +36,13 @@ cd meu-diretorio
 Clone o projeto com o comando `git clone`:
 
 ```bash
-git clone git@github.com:marcosadrianoti/tb-trybesmith.git
+git clone git@github.com:marcosadrianoti/tb-trybes-and-dragons.git
 ```
 
 Acesse o diretório do projeto com o comando `cd`:
 
 ```bash
-cd tb-trybesmith
+cd tb-trybes-and-dragons
 ```
 
 Instale as dependências executando:
