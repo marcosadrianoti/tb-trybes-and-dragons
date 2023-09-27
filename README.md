@@ -12,16 +12,16 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
 
-  * Classe Race
-  * Classes que herdam de Race
-  * Energy
-  * Classe Archetype
-  * Classes que herdam de Archetype
-  * Interface Fighter
-  * Classe Character
-  * Interface SimpleFighter
-  * Classe Monster
-  * Classe PVP.
+  * Criar a Classe Race.
+  * Criar as Classes que herdam de Race.
+  * Criar a Interface Energy.
+  * Criar a Classe Archetype.
+  * Criar as Classes que herdam de Archetype.
+  * Criar a Interface a Interface Fighter.
+  * Criar a Classe Character.
+  * Criar a Interface SimpleFighter.
+  * Criar a Classe Monster.
+  * Criar a Classe PVP.
 </details>
   
 ## Rodando o projeto localmente
